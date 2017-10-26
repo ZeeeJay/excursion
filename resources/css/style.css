@@ -1,22 +1,24 @@
 * {
   background: black;
   text-align: center;
-
 }
 
 h1{
+
+
+}
+
+#discover{
   color:white;
   font-weight: normal;
   font-size: 50px;
   text-align: center;
   font-family: Verdana;
-
 }
 
 #excursion{
   font-size: 16px;
   color: aquamarine;
-
 }
 
 h2{
